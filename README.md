@@ -310,13 +310,8 @@ This system helps:
 
 **B.Tech – Computer Science and Data Science**
 
-Christ University, Bangalore
-
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
